@@ -1,0 +1,37 @@
+﻿@model Cooperchip.ITDeveloper.Domain.Models.EstadoPaciente
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<vc:cabecalho titulo="Medical Management-Sys / Módulo Estado dos Pacientes" subtitulo="Módulo de Administração de Pacientes"></vc:cabecalho>
+
+
+<div class="row">
+    <div class="panel panel-heading">
+        <h3>Tem certeza que deseja excluir o Estado Paciente ?</h3>
+    </div>
+
+    <div class="panel panel-body">
+
+        <h4>EstadoPaciente</h4>
+        <hr />
+
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Descricao)
+            </dd>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+
+            <input type="submit" value="Excluir Estado Paciente" class="btn btn-danger" />
+            <a asp-controller="EstadoPaciente" asp-action="Index" class="btn btn-info">Voltar a Lista</a>
+                        
+        </form>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\bin\Debug\net5.0\Cooperchip.ITDeveloper.Application.deps.json
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\bin\Debug\net5.0\Cooperchip.ITDeveloper.Application.dll
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\bin\Debug\net5.0\ref\Cooperchip.ITDeveloper.Application.dll
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\bin\Debug\net5.0\Cooperchip.ITDeveloper.Application.pdb
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\bin\Debug\net5.0\Cooperchip.ITDeveloper.Data.dll
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\bin\Debug\net5.0\Cooperchip.ITDeveloper.Domain.dll
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\bin\Debug\net5.0\Cooperchip.ITDeveloper.Data.pdb
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\bin\Debug\net5.0\Cooperchip.ITDeveloper.Domain.pdb
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\obj\Debug\net5.0\Cooperchip.ITDeveloper.Application.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\obj\Debug\net5.0\Cooperchip.ITDeveloper.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\obj\Debug\net5.0\Cooperchip.ITDeveloper.Application.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\obj\Debug\net5.0\Cooperchip.ITDeveloper.Application.AssemblyInfo.cs
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\obj\Debug\net5.0\Cooperchip.ITDeveloper.Application.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\obj\Debug\net5.0\Cooperchip.ITDeveloper.Application.csproj.CopyComplete
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\obj\Debug\net5.0\Cooperchip.ITDeveloper.Application.dll
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\obj\Debug\net5.0\ref\Cooperchip.ITDeveloper.Application.dll
+C:\Users\andre\source\repos\medico\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Application\obj\Debug\net5.0\Cooperchip.ITDeveloper.Application.pdb

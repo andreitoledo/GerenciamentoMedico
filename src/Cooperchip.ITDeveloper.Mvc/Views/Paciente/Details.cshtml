@@ -1,0 +1,29 @@
+﻿@model Cooperchip.ITDeveloper.Domain.Models.Paciente
+
+@{
+    ViewData["Title"] = "Detalhes de Paciente";
+}
+
+<vc:cabecalho titulo="Medical Management-Sys / Módulo Pacientes" subtitulo="Módulo de Administração de Pacientes" />
+
+<div class="row">
+    <div class="panel panel-heading">
+        <h3>Detalhes de Pacientes</h3>
+    </div>
+
+
+    <div class="panel panel-body"> 
+
+        <div>
+            <h4>Paciente</h4>
+            <hr />
+
+            <partial name="_delete_details"/>
+
+        </div>
+        <div>
+            <a asp-controller="Paciente" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary"> Editar</a>
+            <a asp-controller="Paciente" asp-action="Index" class="btn btn-info">Voltar a Lista</a>
+        </div>
+    </div>
+</div>

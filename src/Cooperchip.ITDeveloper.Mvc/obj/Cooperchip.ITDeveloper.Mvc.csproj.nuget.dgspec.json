@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\ITDeveloper\\src\\Cooperchip.ITDeveloper.Mvc\\Cooperchip.ITDeveloper.Mvc.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\ITDeveloper\\src\\Cooperchip.ITDeveloper.Application\\Cooperchip.ITDeveloper.Applications.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\ITDeveloper\\src\\Cooperchip.ITDeveloper.Application\\Cooperchip.ITDeveloper.Applications.csproj",
+        "projectName": "Cooperchip.ITDeveloper.Applications",
+        "projectPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\ITDeveloper\\src\\Cooperchip.ITDeveloper.Application\\Cooperchip.ITDeveloper.Applications.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\ITDeveloper\\src\\Cooperchip.ITDeveloper.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj": {
+                "projectPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj"
+              },
+              "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj": {
+                "projectPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\ITDeveloper\\src\\Cooperchip.ITDeveloper.Mvc\\Cooperchip.ITDeveloper.Mvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\ITDeveloper\\src\\Cooperchip.ITDeveloper.Mvc\\Cooperchip.ITDeveloper.Mvc.csproj",
+        "projectName": "Cooperchip.ITDeveloper.Mvc",
+        "projectPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\ITDeveloper\\src\\Cooperchip.ITDeveloper.Mvc\\Cooperchip.ITDeveloper.Mvc.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\ITDeveloper\\src\\Cooperchip.ITDeveloper.Mvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\ITDeveloper\\src\\Cooperchip.ITDeveloper.Application\\Cooperchip.ITDeveloper.Applications.csproj": {
+                "projectPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\ITDeveloper\\src\\Cooperchip.ITDeveloper.Application\\Cooperchip.ITDeveloper.Applications.csproj"
+              },
+              "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj": {
+                "projectPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "KissLog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj",
+        "projectName": "Cooperchip.ITDeveloper.Data",
+        "projectPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj": {
+                "projectPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj",
+        "projectName": "Cooperchip.ITDeveloper.Domain",
+        "projectPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\source\\repos\\medico\\Curso Asp.Net Core 2.2 - DoZero\\src\\Cooperchip.ITDeveloper.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
