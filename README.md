@@ -6,7 +6,7 @@
 
 ---
 > #### *A idéia é desenvolver um sistema completo de Gestão Hospitatar, usando o máximo possível recursos básicos, intermediários
-> #### e avançacos do AspNet Core + C#*
+> e avançacos do AspNet Core + C#*
 
 > #### *Alguns recursos já implantados nesse desenvolvimento:* 
 
@@ -25,6 +25,8 @@
 
 ![Fluxo do Sistema](https://github.com/andreitoledo/GerenciamentoMedico/blob/master/src/Cooperchip.ITDeveloper.Mvc/wwwroot/images/Fluxo%20DDD.png)
 
+> #### *Algumas telas do sistema já desenvolvidas:* 
+> 
 > #### *Tela inicial do projeto*
 
 ![Tela Inicial do Projeto MedicalManagenet-Sys](https://github.com/andreitoledo/GerenciamentoMedico/blob/master/src/Cooperchip.ITDeveloper.Mvc/wwwroot/images/telaMedicalManagement.png)
