@@ -6,7 +6,7 @@
 
 ---
 > #### *A idéia é desenvolver um sistema completo de Gestão Hospitatar, usando o máximo possível recursos básicos, intermediários
-e avançacos do AspNet Core + C#*
+> #### e avançacos do AspNet Core + C#*
 
 > #### *Alguns recursos já implantados nesse desenvolvimento:* 
 
