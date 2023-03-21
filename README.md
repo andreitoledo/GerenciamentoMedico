@@ -12,11 +12,11 @@ e avançacos do AspNet Core + C#*
 
 > #### *Caso de Uso um Sistemas de Gestão Hospitalar.
 > 
-> Principais features do Asp .Net Core, como Controllers, Models, Views, ViewComponets, etc...
+> #### Principais features do Asp .Net Core, como Controllers, Models, Views, ViewComponets, etc...
+>
+> #### Sistema de Rotas, com MapRoutes na Startup Class e Attributes Routes nas Controllers e Actions.
 > 
-> Sistema de Rotas, com MapRoutes na Startup Class e Attributes Routes nas Controllers e Actions.
-> 
-> Segurança com o Microsoft Asp .Net Identty Core, login, registro, confirmação por e-mail, gerenciamento de conta, etc..
+> #### Segurança com o Microsoft Asp .Net Identty Core, login, registro, confirmação por e-mail, gerenciamento de conta, etc..
 > 
 > Controle de serviços de Autenticação e Autorização: UseAuthentication() UseAuthorization();
 > 
