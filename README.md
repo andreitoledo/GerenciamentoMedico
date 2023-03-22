@@ -3,7 +3,6 @@
 ---
 > #### *O projeto ainda esta em desenvolvimento, aproximadamente 80% concluído*
 ---
-
 ---
 > #### *A idéia é desenvolver um sistema completo de Gestão Hospitatar, usando o máximo possível recursos básicos, intermediários
 > e avançacos do AspNet Core + C#*
@@ -62,4 +61,10 @@
  
 ![Tela Status do Paciente](https://github.com/andreitoledo/GerenciamentoMedico/blob/master/src/Cooperchip.ITDeveloper.Mvc/wwwroot/images/painel_status_paciente_ViewComponents.png)
 
+
+----
+>#### @author:                             
+>#### Andrei Toledo                        
+>#### Analista e Desenvolvedor de Sistemas 
+----
 
