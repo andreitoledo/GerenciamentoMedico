@@ -61,10 +61,8 @@
  
 ![Tela Status do Paciente](https://github.com/andreitoledo/GerenciamentoMedico/blob/master/src/Cooperchip.ITDeveloper.Mvc/wwwroot/images/painel_status_paciente_ViewComponents.png)
 
-
 ----
 >#### @author:                             
 >#### Andrei Toledo                        
 >#### Analista e Desenvolvedor de Sistemas 
 ----
-
